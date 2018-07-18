@@ -1,8 +1,5 @@
 {
-"errorCode":0  ,
-  "questions": [
-    "HAHA","QQ"
-  ],
-  "errorMessage": "Success"
-  
+"errorCode":0,
+"questions": ["HAHA","QQ"],
+"errorMessage": "Success"
 }
